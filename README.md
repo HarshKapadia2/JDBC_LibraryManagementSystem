@@ -19,7 +19,7 @@ MySQL 8.0.18.
 
 -The code that I have provided has: 
 checks against the entering of blank fields in the database, 
-case checks for username and password,  
+case checks for username and password, 
 protection against SQL injection attacks.
 
 -Lastly, have patience while doing this project, you will learn a lot of fundamentals. The connectivity and other stuff can be very frustrating, but you have to keep your patience and go through that. Don't be demoralized if it doesn't work. You can always contact me (e-mail: harshgkapadia@gmail.com or Twitter: @harshgkapadia or Instagram: @harshk0606) or your seniors for help. All the best! ( :
