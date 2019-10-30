@@ -25,3 +25,5 @@ protection against SQL injection attacks.
 -Lastly, have patience while doing this project, you will learn a lot of fundamentals. The connectivity and other stuff can be very frustrating, but you have to keep your patience and go through that. Don't be demoralized if it doesn't work. You can always contact me (e-mail: harshgkapadia@gmail.com or Twitter: @harshgkapadia or Instagram: @harshk0606) or your seniors for help. All the best! ( :
 
 PS: Please do let me know if anything is faulty or not working in the code. Also, I will accept pull requests if some functionality is added or if bugs are removed.
+
+PPS: If you want a simpler and less complicated (obviously with lesser functionality and no SQL injection attack/blank field input checks), then you can check out my 'JDBC_AirlineManagementSystem' repo. If you have sufficient time, I would recommend going through this project and making your own project using this repo itself. Try not to copy the entire project as it is.
